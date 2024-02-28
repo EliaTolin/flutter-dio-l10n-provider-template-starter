@@ -5,7 +5,7 @@
 
 ## Description
 
-This repository serves as a template for a Flutter app, providing a modular structure and integrating various packages and functionalities. The project aims to offer a solid foundation for building robust Flutter applications with the following features:
+This repository serves as a template Layer first for a Flutter app, providing a modular structure and integrating various packages and functionalities. The project aims to offer a solid foundation for building robust Flutter applications with the following features:
 
 -   **Dio**: A powerful package for handling network requests, allowing seamless communication with APIs.
 -   **l10n**: Enables multi-language support, making it easy to localize your app for different languages.
